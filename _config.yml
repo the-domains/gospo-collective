@@ -2,6 +2,7 @@ name: Gospo Collective
 favicon: null
 layout_spectrum: 0.3135133010800928
 typography_spectrum: 0.9363446568604559
+title: Gospo Collective
 cta:
   domain: null
   bucket: null
